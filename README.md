@@ -21,6 +21,6 @@ npm i nodemon --save-dev
 npm run start
 ```
 
-5. Buka Postman, klik tombol `Import` yang berada di atas panel kiri aplikasi Postman. Lalu upload kedua file yang ada di folder `BookshelfAPITestCollectionAndEnvironment`
+5. Buka Postman, klik tombol `Import` yang berada di atas panel kiri aplikasi Postman. Lalu upload kedua file yang ada di folder [BookshelfAPITestCollectionAndEnvironment](/BookshelfAPITestCollectionAndEnvironment)
 
 6. Terakhir, jika server sudah berjalan, lakukan pengetesan Bookshelf API pada aplikasi Postman
